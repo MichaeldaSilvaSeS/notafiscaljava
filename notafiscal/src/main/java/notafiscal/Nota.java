@@ -1,6 +1,6 @@
 package notafiscal;
 
-public class as {
+public class Nota {
 
 	public static int blackjack(int first, int second){
 		if(first > 21 && second > 21)
